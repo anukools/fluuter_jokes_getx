@@ -107,7 +107,7 @@ flavorizr:
       android:
         applicationId: "com.app.jokes_app"
       ios:
-        bundleId: "com.app.flutter-base"
+        bundleId: "com.app.jokes-app"
 
     dev:
       app:
@@ -117,5 +117,5 @@ flavorizr:
         applicationId: "com.app.jokes_app_dev"
 
       ios:
-        bundleId: "com.app.flutter-base-dev"
+        bundleId: "com.app.jokes-app-dev"
     
